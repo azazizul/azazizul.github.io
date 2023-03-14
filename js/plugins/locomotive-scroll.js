@@ -516,13 +516,13 @@
           $('.trm-menu nav ul li').removeClass('current-item');
           $('#about-link').addClass('current-item');
         }
-        if ($('#portfolio-triger').hasClass('trm-active-el')) {
+        if ($('#publications-triger').hasClass('trm-active-el')) {
           $('.trm-menu nav ul li').removeClass('current-item');
-          $('#portfolio-link').addClass('current-item');
+          $('#publications-link').addClass('current-item');
         }
-        if ($('#resume-triger').hasClass('trm-active-el')) {
+        if ($('#accomplisnments-triger').hasClass('trm-active-el')) {
           $('.trm-menu nav ul li').removeClass('current-item');
-          $('#resume-link').addClass('current-item');
+          $('#accomplisnments-link').addClass('current-item');
         }
         if ($('#contact-triger').hasClass('trm-active-el')) {
           $('.trm-menu nav ul li').removeClass('current-item');
