@@ -3,7 +3,7 @@ const text = document.querySelector('.trm-typed-text');
 const words = [
     "Researcher",
     "Vlogger",
-    "Adviser",
+    "counsellor",
     "Dreamer :)"
   ];
 
@@ -81,7 +81,7 @@ document.addEventListener("swup:contentReplaced", function() {
   const words = [
     "Researcher",
     "Vlogger",
-    "Adviser",
+    "Counsellor",
     "Dreamer :)"
   ];
 
